@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.179ea872.css",
+    "main.js": "./static/js/main.7c19689d.js",
+    "static/media/Proj1.gif": "./static/media/Proj1.74bc3f75a8ce11410d82.gif",
+    "static/media/Proj5.png": "./static/media/Proj5.a441a3bc172186031fcd.png",
+    "static/media/Final_Homepage.png": "./static/media/Final_Homepage.e97c3fc56ab7cbe2ba3a.png",
+    "static/media/Passport.png": "./static/media/Passport.5bb8e8132d72d148ee86.png",
+    "static/media/Proj4.jpg": "./static/media/Proj4.a02b2288fba5b2d0afe4.jpg",
+    "static/media/Proj2.jpg": "./static/media/Proj2.d8100262eca96aa2c6aa.jpg",
+    "static/media/Proj3.png": "./static/media/Proj3.108e9345d3b0e7a1505f.png",
+    "static/media/Chinmay_Resume_2024.pdf": "./static/media/Chinmay_Resume_2024.9406c196cd7d128abec9.pdf",
+    "index.html": "./index.html",
+    "main.179ea872.css.map": "./static/css/main.179ea872.css.map",
+    "main.7c19689d.js.map": "./static/js/main.7c19689d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.179ea872.css",
+    "static/js/main.7c19689d.js"
+  ]
+}
